@@ -1,0 +1,1 @@
+Added nextcloud (nextcloud.idontlikeprism.com),using snap.
